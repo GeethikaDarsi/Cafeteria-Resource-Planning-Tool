@@ -1,5 +1,5 @@
 # Cafeteria-Resource-Planning-Tool
-nstallation
+Installation
 
 To set up the project locally, follow these steps:
 
